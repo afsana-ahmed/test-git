@@ -2,4 +2,8 @@ asdjb aksldbj klabsdklj
 
 asdasdasd
 
+<<<<<<< HEAD
 aaaaa
+=======
+aaaa
+>>>>>>> 5192573603bc901a24441262cb24f3dbe74e58e0
